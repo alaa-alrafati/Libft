@@ -32,4 +32,3 @@ Re-implementing standard C functions from scratch gave me a deeper understanding
 ### 🤖 AI Usage
 - **Explaining Concepts**: Helped clarify edge cases and expected behavior for standard C functions and pointer arithmetic.
 - **Code Organization**: Helped structure functions cleanly and keep code compliant with the Norminette.
-- **Documentation**: Helped draft and refine the English in this README file.
