@@ -26,7 +26,7 @@ Re-implementing standard C functions from scratch gave me a deeper understanding
 
 ## 🔗 Resources
 - [Linux man pages online](https://man7.org/linux/man-pages/)
-- [Linux man pages (man 3)](https://man7.org/linux/man-pages/dir_section_3.html)
+- [Linux man pages (man 3)]
 - [42 Norminette](https://github.com/42School/norminette)
 
 ### 🤖 AI Usage
