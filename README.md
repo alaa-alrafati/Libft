@@ -25,7 +25,7 @@ Re-implementing standard C functions from scratch gave me a deeper understanding
 - **Conversion & File Descriptor Output**: `ft_atoi`, `ft_itoa`, `ft_putchar_fd`, `ft_putstr_fd`, `ft_putendl_fd`, `ft_putnbr_fd`
 
 ## 🔗 Resources
-- [GNU C Library (glibc) Manual](https://www.gnu.org/software/libc/manual/)
+- [Linux man pages online](https://man7.org/linux/man-pages/)
 - [Linux man pages (man 3)](https://man7.org/linux/man-pages/dir_section_3.html)
 - [42 Norminette](https://github.com/42School/norminette)
 
